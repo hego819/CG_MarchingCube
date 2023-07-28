@@ -11,7 +11,7 @@ Also, did not have enough time to implement surfaces' normal.
 Check the button to see different patterns.
 
 Patterns(numbered from up-left to down-right)  
-![pattern](marchingcubes.jpg)  
+![pattern](marchingcubes.png)  
 http://vis.pku.edu.cn/blog/wp-content/uploads/2011/10/marchingcubes.jpg  
 
 ### Usage  
