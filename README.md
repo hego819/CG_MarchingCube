@@ -6,6 +6,8 @@ The codes related to the assignment are in "/Script/Implict.gd"
 
 ### Preview  
 ![gif1](gif1.gif)  
+There is some holes in the combination of F1, F2 and F3 but I can not figure out why.
+Also, did not have enough time to implement surfaces' normal.
 
 Patterns(numbered from up-left to down-right)  
 ![pattern](marchingcubes.jpg)  
