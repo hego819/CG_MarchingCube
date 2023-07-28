@@ -1,6 +1,4 @@
-# CG_MarchingCube
-
-# CG_ClothSimu  
+# CG_MarchingCube 
   
 The codes related to the assignment are in "/Script/Implict.gd"  
 
