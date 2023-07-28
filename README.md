@@ -9,6 +9,7 @@ The codes related to the assignment are in "/Script/Clothes.gd"
 
 Patterns(numbered from up-left to down-right)  
 ![pattern](marchingcubes.jpg)  
+http://vis.pku.edu.cn/blog/wp-content/uploads/2011/10/marchingcubes.jpg  
 
 ### Usage  
 
