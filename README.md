@@ -2,7 +2,7 @@
 
 # CG_ClothSimu  
   
-The codes related to the assignment are in "/Script/Clothes.gd"  
+The codes related to the assignment are in "/Script/Implict.gd"  
 
 ### Preview  
 ![gif1](gif1.gif)  
