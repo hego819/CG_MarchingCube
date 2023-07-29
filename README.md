@@ -14,6 +14,11 @@ Patterns(numbered from up-left to down-right)
 ![pattern](marchingcubes.png)  
 http://vis.pku.edu.cn/blog/wp-content/uploads/2011/10/marchingcubes.jpg  
 
+Each pattern's output(pattern1, pattern2, pattern4, pattern5, pattern8, others)  
+![pattern1](p1.png)![pattern2](p2.png)  
+![pattern4](p4.png)![pattern5](p5.png)  
+![pattern8](p8.png)![other](other.png)  
+
 ### Usage  
 
 Download godot 3.5  
